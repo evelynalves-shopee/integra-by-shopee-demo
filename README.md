@@ -1,2 +1,6 @@
-# integra-by-shopee-demo
-Demo sem login do site "Integra" by Shopee que trás a visão de transportadoras e master (interna de funcionários da shopee) - com dados fictícios para manter a segurança.
+# Integra by Shopee — apresentação (sem login)
+
+Versão de apresentação da estrutura do site, com foco em transportadora.
+Página única (`index.html`), sem build. Dados de exemplo só em memória.
+
+Uso interno. Não publicar com dados reais de parceiros.
